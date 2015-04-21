@@ -1,0 +1,23 @@
+{
+	"name" : "nous",
+	"version" : "0.0.0",
+	"author": "kdi",
+	"description": "Frictional neural network",
+	"homepage": "https://github.com/kdi/nous",
+	"repository": {
+		"type": "git",
+		"url": "git://github.com/kdi/nous.git"
+	},
+	"licenses": [
+		{
+		"type": "Copyrighted - CC BY-NC-ND",
+		"url": "http://creativecommons.org/licenses/by-nc-nd/3.0/"
+		}
+	],
+	"engine" : {
+		"node" : ">=0.10.x"
+	},
+	"dependencies" : {
+		"intellect": "*",
+	}
+}
